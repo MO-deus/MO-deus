@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MO-deus
-- 👀 I’m interested in learning programming languages,specifically 	
+- 👀 I’m interested in learning programming languages,game development and app development	
 - 🌱 I’m currently learning C/C++
 - 📫 How to reach me kushwaikar@gmail.com
 
